@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WizardApp</string>
+    <string name="button_next">Next</string>
+    <string name="input_name">Please input your name</string>
+    <string name="input_date">Please input your birthday</string>
+    <string name="input_address">Please input your address</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_address">Address</string>
+</resources>
