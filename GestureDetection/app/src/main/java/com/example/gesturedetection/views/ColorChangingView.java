@@ -112,9 +112,7 @@ public class ColorChangingView extends View implements GestureDetector.OnGesture
                 newColor = Color.CYAN;
                 break;
         }
-
         return newColor;
-
     }
 
 }

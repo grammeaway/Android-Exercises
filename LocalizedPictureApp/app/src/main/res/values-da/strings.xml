@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LocalizedPictureApp</string>
+    <string name="next_button">Næste</string>
+    <string name="previous_button">Tidligere</string>
+    <string name="landscape_greeting">Landskabs indstilling</string>
+</resources>

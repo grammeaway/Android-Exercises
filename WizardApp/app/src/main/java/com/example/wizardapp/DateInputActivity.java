@@ -35,7 +35,7 @@ public class DateInputActivity extends AppCompatActivity {
             @Override
             public void onSelectedDayChange(CalendarView view, int year, int month,
                                             int dayOfMonth) {
-                
+
             }
         });
         intent = getIntent();
