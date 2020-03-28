@@ -1,0 +1,2 @@
+# Service Exercise
+Creates a bound service querying an API for a random Chuck Norris Joke. Massive thank you to Greg, since most of this is just me repurposing his already completed code: https://github.com/bongo1986/sdu_android_programming/tree/master/ServiceExercise_1 

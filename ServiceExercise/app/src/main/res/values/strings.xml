@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceExercise</string>
+    <string name="joke_count">Joke count: </string>
+    <string name="next_btn">Next</string>
+    <string name="back_btn">Back</string>
+    <string name="update_joke_btn">Update Joke</string>
+    <string name="update_counter_btn">Update Counter</string>
+</resources>
