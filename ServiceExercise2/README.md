@@ -1,0 +1,2 @@
+# Service Exercise 2
+Creates a started service querying an API for a random Chuck Norris Joke. The reslts are displayed as the service broadcasts them. Massive thank you to Greg, since most of this is just me repurposing his already completed code: https://github.com/bongo1986/sdu_android_programming/tree/master/ServiceExercise_2 
