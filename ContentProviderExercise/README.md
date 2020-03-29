@@ -1,0 +1,2 @@
+# Content Provider Exercise 
+Queries the Contacts content provider, and loads the results into a listview, using SimpleCursorAdapter. Loads all of the data you could ever want about a contact: Their databaseid, lookup key - all the good stuff.
