@@ -1,0 +1,2 @@
+# Content Provider Exercise 2
+Queries the Contacts content provider in a separate thread (via AsyncTask), and loads the results into a RecyclerView, using a ustom adapter. Loads all of the data you could ever want about a contact: Their databaseid, lookup key - all the good stuff.
